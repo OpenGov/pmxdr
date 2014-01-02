@@ -1,0 +1,11 @@
+{
+  "name": "pmxdr",
+  "version": "0.0.6",
+  "homepage": "https://github.com/eligrey/pmxdr",
+  "authors": [
+    "Eli Grey <me@eligrey.com>"
+  ],
+  "description": "A cross-domain XHR Javascript library standard",
+  "main": "./pmxdr-client.js",
+  "license": "MIT"
+}
